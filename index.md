@@ -9,7 +9,7 @@
   Dr. Homi Bhabha Road,<br>
   Pashan, Pune, Maharashtra,<br>
   411008.<br>
-  email: [sujith.ms@students.iiserpune.ac.in](mailto:sujith.ms@students.iiserpune.ac.in)<br>
+  email: sujith.ms@students.iiserpune.ac.in<br>
    
   </span>
 </p>
