@@ -24,8 +24,7 @@ My main interest of study is Reflection Seismology.
  
 ## Relevant Course
  Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, 
- Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology,     
- Paleobiology, Physics of Atmosphere and Ocean.
+ Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology, Paleobiology, Physics of Atmosphere and Ocean.
 
 ##  Research Experience
 * Semester project titled "Statistical Estimation of Seismic Source Signature" under Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020.
