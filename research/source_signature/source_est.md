@@ -11,5 +11,3 @@ create an algorithm to estimate the source signature by Behura’s method [Behur
   <img src="image10.png" width="750"/>
 
 </p>
-
-[back to home](./home/index.md)
