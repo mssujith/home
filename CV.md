@@ -15,14 +15,14 @@ My main interest of study is Reflection Seismology.
 * First prize in All Kerala Inter School Space Quiz Competition conducted by VSSC, LPSC & IISU of ISRO, 
   in Central zone of Kerala and got an opportunity to visit Sriharikota for the launch of PSLV C-37 in 2017.
  
- ## Computational Knowledge
+## Computational Knowledge
  * MATLAB
  * Python
  * Latex
  * Github
  * Origin
  
- ## Relevant Course
+## Relevant Course
   Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, 
   Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology,     
   Paleobiology, Physics of Atmosphere and Ocean.
