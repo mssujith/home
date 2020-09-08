@@ -7,4 +7,4 @@ important methods of estimating source signaal is by deconvolution of the record
 create an algorithm to estimate the source signature by Behura’s method [Behura et al, 2013] and make some modifications.
 
 
-[back to home](./index.md)
+[back to home](/index.md)
