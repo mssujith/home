@@ -6,7 +6,7 @@
   
 <p style="text-align:left;">
   <img src="media/profile.jpg" width="250" />
-    <span style="float:right;"> <br>
+    <span style="float:left;"> <br>
   </span>
 </p>
  
