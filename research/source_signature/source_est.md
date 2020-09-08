@@ -12,4 +12,4 @@ create an algorithm to estimate the source signature by Behura’s method [Behur
 
 </p>
 
-[back to home](/index.md)
+[back to home](./home/index.md)
