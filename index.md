@@ -4,12 +4,12 @@
   <img src="media/profile.jpg" width="250" />
     <span style="float:right;"> <br>
   Fourth year BS-MS student,<br>
-  Department of Earth and Climate Science,<br>
-  Indian Institute of Science Education and Research (IISER), Pune,<br>
+  [Department of Earth and Climate Science,](https://www.iiserpune.ac.in/research/departments/earth-and-climate-science)<br>
+  [Indian Institute of Science Education and Research (IISER), Pune,](https://www.iiserpune.ac.in/)<br>
   Dr. Homi Bhabha Road,<br>
   Pashan, Pune, Maharashtra,<br>
   411008.<br>
-  email: sujith.ms@students.iiserpune.ac.in<br>
+  email: [sujith.ms@students.iiserpune.ac.in](mailto:sujith.ms@students.iiserpune.ac.in)<br>
    
   </span>
 </p>
