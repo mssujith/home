@@ -10,7 +10,6 @@ create an algorithm to estimate the source signature by Behura’s method [Behur
   Result from synthetic data <br>
   <img src="image10.png" width="750"/>
 
-  </span>
 </p>
 
 [back to home](/index.md)
