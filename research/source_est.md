@@ -5,3 +5,6 @@
 Seismic source signature estimation is an essential problem in exploration seismology. There are many ways to estimate the source signature. One of the most
 important methods of estimating source signaal is by deconvolution of the recorded response with the actual Earth’s response signature. In this project, we aim to
 create an algorithm to estimate the source signature by Behura’s method [Behura et al, 2013] and make some modifications.
+
+
+[back to home](/index.md)
