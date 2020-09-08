@@ -43,3 +43,9 @@ My main interest of study is Reflection Seismology.
 * Printing coordinator of Sea Minor 2019, annual drama event organized by IISER Pune.
 * Trekking & Travelling.
 * Movies and Music.
+
+
+
+
+
+#### [back to home](./index.md)
