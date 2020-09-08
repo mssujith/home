@@ -1,7 +1,7 @@
 # Sujith MS
   
 <p style="text-align:left;">
-  <img src="media/profile.jpg" />
+  <img src="media/profile.jpg" width="250" />
     <span style="float:right;"> <br>
   Fourth year BS-MS student,<br>
   Department of Earth and Climate Science,<br>
