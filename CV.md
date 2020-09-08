@@ -16,16 +16,16 @@ My main interest of study is Reflection Seismology.
   in Central zone of Kerala and got an opportunity to visit Sriharikota for the launch of PSLV C-37 in 2017.
  
 ## Computational Knowledge
- * MATLAB
- * Python
- * Latex
- * Github
- * Origin
+* MATLAB
+* Python
+* Latex
+* Github
+* Origin
  
 ## Relevant Course
-  Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, 
-  Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology,     
-  Paleobiology, Physics of Atmosphere and Ocean.
+ Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, 
+ Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology,     
+ Paleobiology, Physics of Atmosphere and Ocean.
 
 ##  Research Experience
 * Semester project titled "Statistical Estimation of Seismic Source Signature" under Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020.
