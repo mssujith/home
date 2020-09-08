@@ -15,7 +15,7 @@
 </p>
  
 ## About
-I am interested in Reflection Seismology. I have worked with Dr. Rahul Dehiya, IISER Pune, on the [Statistical Estimation of Seismic Source Signature](./research/source_est.md).
+I am interested in Reflection Seismology. I have worked with Dr. Rahul Dehiya, IISER Pune, on the [Statistical Estimation of Seismic Source Signature](./research/source_signature/source_est.md).
 
 ## CV
 Take a look at my CV [here](./CV.md)
