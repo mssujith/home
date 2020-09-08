@@ -1,6 +1,6 @@
 # SUJITH MS
 ### INSPIRE Fellow
-### [Indian Institute of Science Education and Research (IISER), Pune.](https://www.iiserpune.ac.in/)
+### Indian Institute of Science Education and Research (IISER), Pune.
 
 ## About
 I am a fourth year student pursuing BS MS dual degree at Department of Earth & Climate Science in Indian Institute of Science Education and Research (IISER), Pune.
