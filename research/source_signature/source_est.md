@@ -4,7 +4,7 @@
 ## Abstract
 Seismic source signature estimation is an essential problem in exploration seismology. There are many ways to estimate the source signature. One of the most
 important methods of estimating source signaal is by deconvolution of the recorded response with the actual Earth’s response signature. In this project, we aim to
-create an algorithm to estimate the source signature by Virtual Source Method [Behura and Snieder, 2013] and make some modifications.
+create an algorithm to estimate the source signature by Virtual-Real Source Method [Behura and Snieder, 2013] and make some modifications.
 
 <p style="text-align:centre;">
   Result from synthetic data <br>
