@@ -7,9 +7,10 @@ I am a fourth year student pursuing BS MS dual degree at Department of Earth & C
 My main interest of study is Reflection Seismology.
 
 ## Academic Details
-| Institute  | Degree           | Year      |
-|:-----------|:-----------------|:----------|
-| IISER Pune | Integrated BS MS | 2017 2022 |
+| Institute  | Degree           | Year |
+|:-----------|:-----------------|:-----|
+| IISER Pune | Integrated BS MS | 2022 |
+| PMGHSS PKD | 12               | 2017 |
 
 | Institute    | Degree            | Year  |
 |:-------------|:------------------|:------|
