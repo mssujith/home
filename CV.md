@@ -12,12 +12,10 @@ My main interest of study is Reflection Seismology.
 | IISER Pune | Integrated BS MS | 2022 |
 | PMGHSS PKD | 12               | 2017 |
 
-| Institute    | Degree            | Year  |
-|:-------------|:------------------|:------|
-| IISER Pune   | Integrated BS MS  | 2022  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Institute    | Degree            | Year       |
+|:-------------|:------------------|:-----------|
+| IISER Pune   | Integrated BS-MS  | 2017-2022  |
+
 
 ## Achievements
 * Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
