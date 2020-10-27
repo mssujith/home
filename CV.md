@@ -9,7 +9,7 @@ My main interest of study is Reflection Seismology.
 ## Academic Details
 | Institute  | Degree           | Year      |
 |:-----------|:-----------------|:----------|
-| IISER Pune | Integrated BS-MS | 2017-2022 |
+| IISER Pune | Integrated BS MS | 2017 2022 |
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
