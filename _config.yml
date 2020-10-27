@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Sujith MS
 description: Fourth year student at IISER Pune.
+github:
+  is_project_page: false
