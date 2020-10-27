@@ -1,5 +1,3 @@
-font-family: F16;
-
 # Sujith MS
 #### Fourth Year BS MS Student
 #### [Department of Earth and Climate Science](https://www.iiserpune.ac.in/research/departments/earth-and-climate-science)
