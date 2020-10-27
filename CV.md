@@ -10,7 +10,13 @@ My main interest of study is Reflection Seismology.
 | Institute        | Degree            | Year       |
 |:-----------------|:------------------|:-----------|
 | IISER Pune       | Integrated BS-MS  | 2017-2022  |
-***
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## Achievements
 * Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
