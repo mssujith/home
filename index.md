@@ -1,5 +1,3 @@
-body {
-    font-family: F16;
 # Sujith MS
 #### Fourth Year BS MS Student
 #### [Department of Earth and Climate Science](https://www.iiserpune.ac.in/research/departments/earth-and-climate-science)
@@ -18,4 +16,3 @@ I am interested in Reflection Seismology. I have worked with Dr. Rahul Dehiya, I
 
 ## CV
 Take a look at my CV [here](./CV.md)
-}
