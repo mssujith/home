@@ -1,4 +1,4 @@
-font-family: BrownFox;
+font-family: F16;
 
 # Sujith MS
 #### Fourth Year BS MS Student
