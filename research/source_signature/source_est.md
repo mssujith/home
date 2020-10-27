@@ -10,5 +10,5 @@ create an algorithm to estimate the source signature by Virtual-Real Source Meth
 
 <p style="text-align:centre;">
   <img src="image10.png" width="750"/>
-  Result from synthetic data <br>
 </p>
+Result from synthetic data
