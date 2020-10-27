@@ -47,7 +47,7 @@ My main interest of study is Reflection Seismology.
   NASA ARSET on june 25, 2020.
 
 ## Extra-Curricular Activities
-* Merchandise and Printing Coordinator of Karavaan 2019, annual socio-cultural science festival of IISER Pune.
+* Merchandise and Printing Coordinator of [Karavaan 2019](https://en.wikipedia.org/wiki/Karavaan), annual socio-cultural science festival of IISER Pune.
 * Printing coordinator of Sea Minor 2019, annual drama event organized by IISER Pune.
 * Trekking & Travelling.
 * Movies and Music.
