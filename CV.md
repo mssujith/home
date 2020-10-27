@@ -7,10 +7,6 @@ I am a fourth year student pursuing BS MS dual degree at Department of Earth & C
 My main interest of study is Reflection Seismology.
 
 ## Academic Details
-| Institute  | Degree           | Year |
-|:-----------|:-----------------|:-----|
-| IISER Pune | Integrated BS MS | 2022 |
-| PMGHSS PKD | 12               | 2017 |
 
 | Institute    | Degree            | Year       |
 |:-------------|:------------------|:-----------|
@@ -19,9 +15,9 @@ My main interest of study is Reflection Seismology.
 
 ## Achievements
 * Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
-* Selected for INSPIRE Fellowship Program, from Dept. of Science and Technology, Govt. of India.
+* Selected for [INSPIRE Fellowship Program](http://www.inspire-dst.gov.in/fellowship.html), from Dept. of Science and Technology, Govt. of India.
 * First prize in All Kerala Inter School Space Quiz Competition conducted by VSSC, LPSC & IISU of ISRO, 
-  in Central zone of Kerala and got an opportunity to visit Sriharikota for the launch of PSLV C-37 in 2017.
+  in Central zone of Kerala and got an opportunity to visit Sriharikota for the launch of [PSLV C-37](https://en.wikipedia.org/wiki/PSLV-C37) in 2017.
  
 ## Computational Knowledge
 * MATLAB
@@ -39,7 +35,7 @@ My main interest of study is Reflection Seismology.
 ## Relevant Attended Talks
 * Seminar on Sub-surface imaging, using passive and active seismic data sets by Dr. Gaurav Tomar on February 25, 2019.
 * Colloquium on Archaeo-Genetic Research at the Harappan Site of Rakhigarhi by Prof Vasant Shinde on November 8, 2019.
-* Sameeksha 2020, an annual event that showcases research work by students, post-doctoral fellows and faculty members of the Department of 
+* [Sameeksha 2020](https://www.iiserpune.ac.in/colloquia-seminars/1299), an annual event that showcases research work by students, post-doctoral fellows and faculty members of the Department of 
   Earth and Climate Science of IISER Pune on January 11, 2020
 * Seminar on Gas hydrates: challenges and opportunities by Dr. Pawan Dewangan on January 30, 2020.
 * Colloquium on The origins of modern Indian biodiversity: Climate implications by Prof. Ashok Sahni on March 6, 2020.
