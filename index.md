@@ -6,8 +6,8 @@
 #### 411008
   
 <p style="text-align:left;">
-  <img allign="right" src="media/profile.jpg" width="200" />
-    <span style="float:left;"> <br>
+  <img src="media/profile.jpg" width="200" />
+    <span style="float:right;"> <br>
   </span>
 </p>
  
