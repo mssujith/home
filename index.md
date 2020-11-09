@@ -6,9 +6,9 @@
 #### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra
 #### 411008
   
-<p style="text-align:left;">  
-  <span style="float:right;"> <br>
+<p style="text-align:right;">  
   <img src="media/profile.jpg" width="200" />
+    <span style="float:right;"> <br>
   </span>
 </p>
  
