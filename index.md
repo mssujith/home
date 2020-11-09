@@ -6,7 +6,7 @@
 #### 411008
   
 <p style="text-align:left;">
-  <img src="media/profile.jpg" width="200" />
+  <img allign="right" src="media/profile.jpg" width="200" />
     <span style="float:left;"> <br>
   </span>
 </p>
