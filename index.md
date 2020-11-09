@@ -1,4 +1,4 @@
-<p style="text-align:left;">
+
 #Sujith MS
 #### Fourth Year BS MS Student
 #### [Department of Earth and Climate Science](https://www.iiserpune.ac.in/research/departments/earth-and-climate-science)
@@ -6,6 +6,7 @@
 #### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra
 #### 411008
   
+<p style="text-align:left;">  
   <span style="float:right;"> <br>
   <img src="media/profile.jpg" width="200" />
   </span>
