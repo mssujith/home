@@ -6,7 +6,7 @@
 
 ## About
 I am a fourth year student pursuing BS MS dual degree at Department of Earth & Climate Science in Indian Institute of Science Education and Research (IISER), Pune.
-My main interest of study is Reflection Seismology.
+My main interest of study is Exploration geophysics and Inverse problems.
 
 ## Academic Details
 
