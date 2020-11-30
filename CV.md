@@ -17,7 +17,7 @@ My main interest of study is Exploration geophysics and Inverse problems.
 
 ## Achievements
 * Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
-* Selected for [INSPIRE Fellowship Program](http://www.inspire-dst.gov.in/fellowship.html), from Dept. of Science and Technology, Govt. of India.
+* Selected for [INSPIRE Fellowship Program](http://online-inspire.gov.in/Account/INSPIREProgramme), from Deptartment of Science and Technology, Government of       India.
 * First prize in All Kerala Inter School Space Quiz Competition conducted by VSSC, LPSC & IISU of ISRO, 
   in Central zone of Kerala and got an opportunity to visit Sriharikota for the launch of [PSLV C-37](https://en.wikipedia.org/wiki/PSLV-C37) in 2017.
  
