@@ -26,7 +26,13 @@ My main interest of study is Reflection Seismology.
 * Python
 * Latex
 * Github
+
+## Data analysis software
 * Origin
+
+## Graphic design software
+* Inkscape
+* GNU Image Manipulation Program (GIMP)
  
 ## Relevant Course
  Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology, Paleobiology, Physics of Atmosphere and Ocean.
@@ -45,7 +51,6 @@ My main interest of study is Reflection Seismology.
   NASA ARSET on june 25, 2020.
 
 ## Extra-Curricular Activities
-* Merchandise and Printing Coordinator of [Karavaan 2019](https://en.wikipedia.org/wiki/Karavaan), annual socio-cultural science festival of IISER Pune.
-* Printing coordinator of Sea Minor 2019, annual drama event organized by IISER Pune.
+* Coordinated Merchandise and Printing department for [Karavaan 2019](https://en.wikipedia.org/wiki/Karavaan), annual socio-cultural science festival of IISER Pune.
+* Coordinated Printing department for Sea Minor 2019, annual drama event organized by IISER Pune.
 * Trekking & Travelling.
-* Movies and Music.
