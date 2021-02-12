@@ -1,7 +1,7 @@
 # SUJITH M S
 ***
-## INSPIRE Fellow
-## Indian Institute of Science Education and Research (IISER), Pune.
+### INSPIRE Fellow
+### Indian Institute of Science Education and Research (IISER), Pune.
 
 
 
