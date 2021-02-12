@@ -1,24 +1,12 @@
-
 # Sujith M S	
 ***
 #### [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/)	
 #### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra	
 #### INDIA - 411008	
 ***
-<div>
-  <div style="width:100">
-    <img src = "media/profile.jpg" style="float:right;">
-  </div>
-  <div>
-  </div>
-</div>
 
-
-<p style="text-align:left;">  	
-  <img src="media/profile.jpg" width="200" />	
-    <span style="text-align:left;"> <br>	
-  </span>	
-</p>	
+<img src="media/profile.jpg" width="200" />	
+<span style="float:right"></span>	
 
 
 ## About
