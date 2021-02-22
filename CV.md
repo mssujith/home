@@ -30,6 +30,7 @@
 
 ## Data analysis software
 ***
+* Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
 * Origin
 
 ## Graphic design software
@@ -39,11 +40,12 @@
  
 ## Relevant Course
 ***
- Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Sequence Stratigraphy,Earth and Planetary Materials, Structural Geology, Geochemistry, Sedimentology & Stratigraphy,Igneous & Metamorphic Petrology, Paleobiology, Physics of Atmosphere and Ocean.
+ Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous&Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.
 
 ##  Research Experience
 ***
-* Semester project titled "Statistical Estimation of Seismic Source Signature" under Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020.
+* Semester project titled "Statistical Estimation of Seismic Source Signature" under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020.
+* Semester project titled "Multichannel Seismic Data Analysis" under the supervision of Dr.Rahul Dehiya, IISER Pune during Feb-May 2021.
 
 ## Relevant Attended Talks
 ***
