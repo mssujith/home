@@ -11,7 +11,7 @@
 | Institute           | Degree            | Year       |
 |:--------------------|:------------------|:-----------|
 | IISER Pune          | Integrated BS-MS  | 2017-2022  |
-| PMG HSS Palakkad    | 10+2              | 2015-2017  |
+| PMG HSS Palakkad    | 10+2              | 2017       |
 
 
 ## Achievements
