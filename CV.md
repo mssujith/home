@@ -40,6 +40,7 @@
  
 ## Relevant Course
 ***
+<p>This is how you <strong>create bold text</strong> using the strong method.</p>
  Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous&Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.
 
 ##  Research Experience
