@@ -18,7 +18,7 @@
 ***
 * Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
 * Selected for [INSPIRE Fellowship Program](http://online-inspire.gov.in/Account/INSPIREProgramme), from Ministry of Science and Technology, Government of       India.
-* First prize in All Kerala Inter School Space Quiz Competition conducted collaboratively by [VSSC](http://www.vssc.gov.in/), [LPSC](http://www.vssc.gov.in/VSSC_V4/index.php/isro-centres-media?id=375) & [IISU](http://www.vssc.gov.in/VSSC_V4/index.php/37-isro-centres/91-isro-inertial-systems-unit-iisu) of [ISRO](https://www.isro.gov.in/), 
+* First prize in All Kerala Inter School Space Quiz Competition conducted collaboratively by [VSSC](http://www.vssc.gov.in/), [LPSC](https://www.lpsc.gov.in/) & [IISU](https://www.isro.gov.in/about-isro/isro-inertial-systems-unit-iisu) of [ISRO](https://www.isro.gov.in/), 
   in Central zone of Kerala and visited [SDSC Sriharikota](https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre) for the launch of [PSLV C-37](https://en.wikipedia.org/wiki/PSLV-C37) in 2017.
  
 ## Computational Knowledge
