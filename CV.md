@@ -13,6 +13,32 @@
 | IISER Pune          | Integrated BS-MS  | 2017-2022  |
 | PMG HSS Palakkad    | 10+2              | 2017       |
 
+##  Research Experience
+***
+* <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020. </p>
+* <p> Semester project titled <strong> Multichannel Seismic Data Analysis </strong> under the supervision of Dr. Rahul Dehiya, IISER Pune during Feb-May 2021. </p>
+
+## Relevant Course
+***
+<p><strong>Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing</strong>, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous&Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.</p>
+
+## Computational Knowledge
+***
+* MATLAB
+* Python
+* Github
+
+## Data analysis software
+***
+* Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
+* Origin
+* Latex
+
+## Graphic design software
+***
+* Inkscape
+* GNU Image Manipulation Program (GIMP)
+
 
 ## Achievements
 ***
@@ -20,32 +46,6 @@
 * Selected for [INSPIRE Fellowship Program](http://online-inspire.gov.in/Account/INSPIREProgramme), from Ministry of Science and Technology, Government of       India.
 * First prize in All Kerala Inter School Space Quiz Competition conducted collaboratively by [VSSC](http://www.vssc.gov.in/), [LPSC](https://www.lpsc.gov.in/) & [IISU](https://www.isro.gov.in/about-isro/isro-inertial-systems-unit-iisu) of [ISRO](https://www.isro.gov.in/), 
   in Central zone of Kerala and visited [SDSC Sriharikota](https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre) for the launch of [PSLV C-37](https://en.wikipedia.org/wiki/PSLV-C37) in 2017.
- 
-## Computational Knowledge
-***
-* MATLAB
-* Python
-* Latex
-* Github
-
-## Data analysis software
-***
-* Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
-* Origin
-
-## Graphic design software
-***
-* Inkscape
-* GNU Image Manipulation Program (GIMP)
- 
-## Relevant Course
-***
-<p><strong>Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing</strong>, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous&Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.</p>
-
-##  Research Experience
-***
-* <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020. </p>
-* <p> Semester project titled <strong> Multichannel Seismic Data Analysis </strong> under the supervision of Dr. Rahul Dehiya, IISER Pune during Feb-May 2021. </p>
 
 ## Relevant Attended Talks
 ***
@@ -62,4 +62,5 @@
 ***
 * Coordinated Merchandise and Printing department for [Karavaan 2019](https://en.wikipedia.org/wiki/Karavaan), annual socio-cultural science festival of IISER Pune.
 * Coordinated Printing department for Sea Minor 2019, annual drama event organized by IISER Pune.
+* Delhi center coordinator for [Mimamsa 2019](https://en.wikipedia.org/wiki/Mimamsa-IISER), national level intercollegiate science quiz organized by IISER Pune.
 * Trekking & Travelling.
