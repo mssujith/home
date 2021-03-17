@@ -1,6 +1,6 @@
 # SUJITH M S
 ***
-### INSPIRE Fellow
+### INSPIRE Scolar
 ### Indian Institute of Science Education and Research (IISER), Pune.
 
 
@@ -26,13 +26,13 @@
 ***
 * MATLAB
 * Python
-* Github
+* R
+* Latex
 
 ## Data analysis software
 ***
 * Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
 * Origin
-* Latex
 
 ## Graphic design software
 ***
