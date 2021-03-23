@@ -19,4 +19,4 @@ My primary area of research interest is siesmic data analysis and time lapse 4D 
 
 ## CV
 ***	
-[CV](./CV.md)
+[CV](./cv.md)
