@@ -8,7 +8,7 @@
 
 
 
-<img src="media/profile.jpg" width="200" ALIGH="right" />
+<img src="media/profile.jpg" width="200" ALIGN="right" />
 
 
 ## About
