@@ -1,6 +1,6 @@
 # SUJITH M S
 ***
-### INSPIRE Scolar
+### INSPIRE Scholar
 ### Indian Institute of Science Education and Research (IISER), Pune.
 
 
@@ -15,8 +15,11 @@
 
 ##  Research Experience
 ***
-* <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020. </p>
 * <p> Semester project titled <strong> Multichannel Seismic Data Analysis </strong> under the supervision of Dr. Rahul Dehiya, IISER Pune during Feb-May 2021. </p>
+<p> The project aims to make a strong understanding of processes and procedures used in the processing and interpretation of multichannel seismic data.</p>
+* <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020. </p>
+<p> The project aims to create an algorithm for the statistical estimation of the seismic source signature and compare the results of different source signature methods. </p>
+
 
 ## Relevant Course
 ***
@@ -34,21 +37,17 @@
 * Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
 * Origin
 
-## Graphic design software
-***
-* Inkscape
-* GNU Image Manipulation Program (GIMP)
-
 
 ## Achievements
 ***
-* Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
 * Selected for [INSPIRE Fellowship Program](http://online-inspire.gov.in/Account/INSPIREProgramme), from Ministry of Science and Technology, Government of       India.
+* Belongs to the top 1% in Higher Secondary Examination, Board of Higher Secondary Examinations, Kerala, 2017.
 * First prize in All Kerala Inter School Space Quiz Competition conducted collaboratively by [VSSC](http://www.vssc.gov.in/), [LPSC](https://www.lpsc.gov.in/) & [IISU](https://www.isro.gov.in/about-isro/isro-inertial-systems-unit-iisu) of [ISRO](https://www.isro.gov.in/), 
   in Central zone of Kerala and visited [SDSC Sriharikota](https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre) for the launch of [PSLV C-37](https://en.wikipedia.org/wiki/PSLV-C37) in 2017.
 
 ## Relevant Attended Talks
 ***
+* International Petroleum Technology Conference (IPTC) 2021.
 * Webinar on Groundwater monitoring using observations from NASA’s Gravity Recovery and Climate Experiment (GRACE) missions conducted by
   NASA ARSET on june 25, 2020.
 * Colloquium on The origins of modern Indian biodiversity: Climate implications by Prof. Ashok Sahni on March 6, 2020.
