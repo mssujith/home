@@ -16,9 +16,9 @@
 ##  Research Experience
 ***
 * <p> Semester project titled <strong> Multichannel Seismic Data Analysis </strong> under the supervision of Dr. Rahul Dehiya, IISER Pune during Feb-May 2021. </p>
-<p> The project aims to make a strong understanding of processes and procedures used in the processing and interpretation of multichannel seismic data.</p>
+<em> The project aims to make a strong understanding of processes and procedures used in the processing and interpretation of multichannel seismic data.</em>
 * <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan-Apr 2020. </p>
-<p> The project aims to create an algorithm for the statistical estimation of the seismic source signature and compare the results of different source signature methods. </p>
+<em> The project aims to create an algorithm for the statistical estimation of the seismic source signature and compare the results of different source signature methods. </em>
 
 
 ## Relevant Course
