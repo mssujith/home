@@ -1,5 +1,6 @@
+github: 
+  is_project_page: false
 theme: jekyll-theme-midnight
 title: Sujith M S
 description: Fourth year BS MS student @ IISER Pune
-github: 
-  is_project_page: false
+
