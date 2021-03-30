@@ -1,4 +1,4 @@
-# SUJITH M S
+# Sujith M S
 ***
 ### INSPIRE Scholar
 ### Indian Institute of Science Education and Research (IISER), Pune.
