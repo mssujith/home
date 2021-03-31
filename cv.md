@@ -35,9 +35,10 @@
 * R
 * Latex
 
-## Data analysis software
+## Software pakages
 ***
 * Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
+* OpendTect
 * Origin
 
 
