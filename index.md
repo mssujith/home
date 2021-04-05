@@ -1,3 +1,6 @@
+  <head>
+  <title>Sujith MS | IISER Pune</title>
+  </head>
 
 ## About
 ***	
