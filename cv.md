@@ -30,16 +30,11 @@
 
 ## Computational Knowledge
 ***
-* MATLAB
-* Python
-* R
-* Latex
-
 <style>
 * {box-sizing:border-box}
 
 .container { 
-  width: 50%;
+  width: 100%;
   \\background-color: #ddd; 
 }
 
@@ -61,20 +56,20 @@
     <div class="skills matlab"></div>
   </div>
 
-<p>Python</p>
-<div class="container python">
-  <div class="skills"></div>
-</div>
+*  <p>Python</p>
+  <div class="container python">
+    <div class="skills"></div>
+  </div>
 
-<p>R</p>
-<div class="container r">
-  <div class="skills"></div>
-</div>
+*  <p>R</p>
+  <div class="container r">
+    <div class="skills"></div>
+  </div>
 
-<p>LaTeX</p>
-<div class="container latex">
-  <div class="skills"></div>
-</div>
+*  <p>LaTeX</p>
+  <div class="container latex">
+    <div class="skills"></div>
+  </div>
 
 ## Software pakages
 ***
