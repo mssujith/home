@@ -39,7 +39,7 @@
 * {box-sizing:border-box}
 
 .container { 
-  width: 100%;
+  width: 50%;
   \\background-color: #ddd; 
 }
 
@@ -50,30 +50,30 @@
   color: blue;
 }
 
-.matlab {width: 90%; background-color: #4CAF50;} 
-.python {width: 80%; background-color: #2196F3;} 
+.matlab {width: 90%; background-color: #f44336;} 
+.python {width: 80%; background-color: #f44336;} 
 .r {width: 65%; background-color: #f44336;} 
-.latex {width: 60%; background-color: #808080;
+.latex {width: 60%; background-color: #f44336;
 </style>
 
-<p>MATLAB</p>
-<div class="container">
-  <div class="skills matlab">90%</div>
-</div>
+*  <p>MATLAB</p>
+  <div class="container">
+    <div class="skills matlab"></div>
+  </div>
 
 <p>Python</p>
 <div class="container python">
-  <div class="skills">70%</div>
+  <div class="skills"></div>
 </div>
 
 <p>R</p>
 <div class="container r">
-  <div class="skills">50%</div>
+  <div class="skills"></div>
 </div>
 
 <p>LaTeX</p>
 <div class="container latex">
-  <div class="skills">80%</div>
+  <div class="skills"></div>
 </div>
 
 ## Software pakages
