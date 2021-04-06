@@ -35,6 +35,7 @@
 
 .container { 
   width: 100%;
+  align: left;
   \\background-color: #ddd; 
 }
 
@@ -42,7 +43,7 @@
   text-align: right; 
   padding-top: 10px;
   padding-bottom: 10px;
-  color: blue;
+  color: white;
 }
 
 .matlab {width: 90%; background-color: #f44336;} 
