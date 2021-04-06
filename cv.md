@@ -39,15 +39,15 @@
 * {box-sizing:border-box}
 
 .container {
-  width: 100%; 
-  background-color: #ddd; 
+  width: 50%; 
+  \\background-color: #ddd; 
 }
 
 .skills {
   text-align: right; 
   padding-top: 10px;
   padding-bottom: 10px;
-  color: white;
+  color: blue;
 }
 </style>
 
