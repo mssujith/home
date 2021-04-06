@@ -35,7 +35,7 @@
 
 .container { 
   width: 100%;
-  align: left;
+  align-content: left;
   \\background-color: #ddd; 
 }
 
@@ -46,7 +46,7 @@
   color: white;
 }
 
-.matlab {width: 90%; background-color: #f44336;} 
+.matlab {width: 90%; background-color: #f44336; height: 30px;} 
 .python {width: 70%; background-color: #f44336;} 
 .r {width: 55%; background-color: #f44336;} 
 .latex {width: 85%; background-color: #f44336;
