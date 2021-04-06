@@ -47,30 +47,26 @@
   color: white;
 }
 
-.matlab {width: 90%; background-color: #f44336; height: 5px;} 
+.matlab {width: 90%; background-color: #f44336;} 
 .python {width: 70%; background-color: #f44336;} 
-.r {width: 55%; background-color: #f44336; align-content: left;} 
+.r {width: 55%; background-color: #f44336;} 
 .latex {width: 85%; background-color: #f44336;
 </style>
 
 *  <p>MATLAB</p>
   <div class="container">
-    <div class="skills matlab"></div>
   </div>
 
 *  <p>Python</p>
-  <div class="container python">
-    <div class="skills"></div>
+  <div class="container">
   </div>
 
 *  <p>R</p>
-  <div class="container r">
-    <div class="skills"></div>
+  <div class="container">
   </div>
 
 *  <p>LaTeX</p>
-  <div class="container latex">
-    <div class="skills"></div>
+  <div class="container">
   </div>
 
 ## Software pakages
