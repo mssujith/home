@@ -38,8 +38,8 @@
 <style>
 * {box-sizing:border-box}
 
-.container {
-  width: 50%; 
+.container { 
+  width: 100%; background-color: #2196F3;
   \\background-color: #ddd; 
 }
 
