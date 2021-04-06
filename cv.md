@@ -35,6 +35,7 @@
 
 .container { 
   width: 100%;
+  height: 5px
   align-content: left;
   \\border: 1px solid #ddd;
   \\background-color: #ddd; 
