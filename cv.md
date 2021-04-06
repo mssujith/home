@@ -39,7 +39,7 @@
 * {box-sizing:border-box}
 
 .container { 
-  width: 100%; background-color: #2196F3;
+  width: 100%;
   \\background-color: #ddd; 
 }
 
@@ -49,25 +49,30 @@
   padding-bottom: 10px;
   color: blue;
 }
+
+.matlab {width: 90%; background-color: #4CAF50;} 
+.python {width: 80%; background-color: #2196F3;} 
+.r {width: 65%; background-color: #f44336;} 
+.latex {width: 60%; background-color: #808080;
 </style>
 
 <p>MATLAB</p>
 <div class="container">
-  <div class="skills">90%</div>
+  <div class="skills matlab">90%</div>
 </div>
 
 <p>Python</p>
-<div class="container">
+<div class="container python">
   <div class="skills">70%</div>
 </div>
 
 <p>R</p>
-<div class="container">
+<div class="container r">
   <div class="skills">50%</div>
 </div>
 
 <p>LaTeX</p>
-<div class="container">
+<div class="container latex">
   <div class="skills">80%</div>
 </div>
 
