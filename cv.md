@@ -35,6 +35,42 @@
 * R
 * Latex
 
+<style>
+* {box-sizing:border-box}
+
+.container {
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+</style>
+
+<p>MATLAB</p>
+<div class="container">
+  <div class="skills">90%</div>
+</div>
+
+<p>Python</p>
+<div class="container">
+  <div class="skills">70%</div>
+</div>
+
+<p>R</p>
+<div class="container">
+  <div class="skills">50%</div>
+</div>
+
+<p>LaTeX</p>
+<div class="container">
+  <div class="skills">80%</div>
+</div>
+
 ## Software pakages
 ***
 * Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
