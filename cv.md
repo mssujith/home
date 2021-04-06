@@ -56,22 +56,22 @@
 
 *  <p>MATLAB</p>
   <div class="container">
-   <div class="skills matlab">90%</div>
+   <div class="skills matlab"></div>
   </div>
 
 *  <p>Python</p>
   <div class="container">
-  <div class="skills python">70%</div>
+  <div class="skills python"></div>
   </div>
 
 *  <p>R</p>
   <div class="container">
-  <div class="skills r">55%</div>
+  <div class="skills r"></div>
   </div>
 
 *  <p>LaTeX</p>
   <div class="container">
-  <div class="skills latex">85%</div>
+  <div class="skills latex"></div>
   </div>
 
 ## Software pakages
