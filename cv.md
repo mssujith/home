@@ -1,3 +1,12 @@
+;;;
+{
+  "title": "CV | Sujith M S"
+  "example": {
+    "language": "json"
+  }
+}
+;;;
+
 # Sujith M S
 ***
 #### INSPIRE Scholar
