@@ -78,8 +78,8 @@
 
 ## Software pakages
 ***
-* Geometrics Softwares (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
-* OpendTect
+* [Geometrics Softwares](https://www.geometrics.com/software/) (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
+* [OpendTect](https://www.dgbes.com/)
 
 
 ## Achievements
@@ -91,7 +91,7 @@
 
 ## Relevant Attended Talks
 ***
-* International Petroleum Technology Conference (IPTC) 2021.
+* [International Petroleum Technology Conference (IPTC)](http://iptcnet.org/) 2021.
 * Webinar on Groundwater monitoring using observations from NASA’s Gravity Recovery and Climate Experiment (GRACE) missions conducted by
   NASA ARSET on June 25, 2020.
 * Colloquium on The origins of modern Indian biodiversity: Climate implications by Prof. Ashok Sahni on March 6, 2020.
