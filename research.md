@@ -27,6 +27,7 @@ Exloration Geophysics Lab at IISER Pune undertook a 2D seismic survey (Refractio
 <img src="media/final_vel_with_ray.png" width="300"
 />
 <img src="media/final_vel.png" width="300" ALIGN="" class="floatRight" />
+
 Velocity profile of subsurface from Refraction data analysis and MASW.
 
 Currently, I am processing the open data, [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software.
