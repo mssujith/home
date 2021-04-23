@@ -42,7 +42,7 @@ Read more about the research works [here](./research.md)
         <li><a href="https://www.linkedin.com/in/sujith-m-s-392739210/">LinkedIn</a></li>
       </ul>
 
-***
+
 
 > This is your life and it's ending one minute at a time.
 > <div style="text-align: right"> -Fight Club (1999) </div>
