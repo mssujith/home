@@ -16,8 +16,8 @@ Time lapse seismics have created a breakthrough in the field of reservoir monito
 is to match the monitor data with baseline data. In order to do so, the time shift has to be estimated. So I created an algorith to estimate the time shift between
 monitor and baseline data by taylor series approximation and also I tried to execute the index variant time shift to monitor trace for matching it with the baseline.
 
-<img src="media/time_shift.jpg" width="200" ALIGN="left" />
-<img src="media/matching.jpg" width="200" ALIGN="right" class="floatRight" />
+<img src="media/time_shift.png" width="200"/>
+<img src="media/matching.png" width="200" ALIGN="right" class="floatRight" />
 
 ## Multichannel Seismic Data Analaysis
 Seismic data will provide us a time picture of subsurface structure. The data can be analysed to visualizing tools like imagery, models of velocity profiles, etc.
