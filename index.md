@@ -37,6 +37,7 @@ Find my cv [here](./cv.md)
 </style>
 
 <ul class="social-links">
-        <li><a href="https://github.com/mssujith">Github</a></li>
         <li><a href="https://mssujith.github.io/cv.html">CV</a></li>
+        <li><a href="https://github.com/mssujith">Github</a></li>
+        <li><a href="https://www.researchgate.net/profile/M_S_Sujith">Research Gate</a></li>
       </ul>
