@@ -24,5 +24,9 @@ monitor and baseline data by taylor series approximation and also I tried to exe
 Seismic data will provide us a time picture of subsurface structure. The data can be analysed to visualizing tools like imagery, models of velocity profiles, etc.
 Exloration Geophysics Lab at IISER Pune undertook a 2D seismic survey (Refraction and Surface wave) of small area inside IISER Pune campus. Then we were able to process and analyse the data to get the velocity profile of the subsurface. P wave velocity was estimated by refraction data analysis and S wave by Multichannel Analysis of Surface Waves (MASW). 
 
+<img src="media/ray_tracing.png" width="300"
+/>
+<img src="media/final_vel.png" width="300" ALIGN="" class="floatRight" />
+
 Currently, I am processing the open data, [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software.
    
