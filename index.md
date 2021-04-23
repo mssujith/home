@@ -38,4 +38,5 @@ My primary area of research interest is siesmic data analysis and Full Wave Inve
         <li><a href="https://mssujith.github.io/cv.html">CV</a></li>
         <li><a href="https://github.com/mssujith">Github</a></li>
         <li><a href="https://www.researchgate.net/profile/M_S_Sujith">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/sujith-m-s-392739210/">LinkedIn</a></li>
       </ul>
