@@ -36,7 +36,7 @@ Find my cv [here](./cv.md)
 
 <ul class="social-links">
         <li><a href="https://github.com/mssujith">Github</a></li>
-        <li><a href="./cv.md">CV</a></li>
+        <li><a href="https://mssujith.github.io/cv.html">CV</a></li>
       </ul>
 
 
