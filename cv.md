@@ -28,7 +28,7 @@
 
 ## Relevant Course
 ***
-<p><strong>Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing</strong>, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous&Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.</p>
+<p><strong>Exploration Seismology, Geoelectromagnetic Exploration, Parameter Estimation & Inverse Theory, Introduction to Geophysics, Numerical Computation using Matlab, Satellite Data Analysis & Image Processing</strong>, Sequence Stratigraphy, Sedimentology & Stratigraphy, Earth & Planetary Materials, Structural Geology,Geochemistry, Igneous & Metamorphic Petrology, Paleobiology,Pysical Oceanography, Geophysical Fluid Dynamics, Physics of Atmosphere and Ocean, Optics,Linear Algebra, Probability & Statistics, Introduction to Computation (Python), Data Science.</p>
 
 ## Computational Knowledge
 ***
