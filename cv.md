@@ -19,7 +19,7 @@
 ##  Research Experience
 ***
 * <p> Semester project titled <strong> Multichannel Seismic Data Analysis </strong> under the supervision of Dr. Rahul Dehiya, IISER Pune during Feb - May 2021. </p>
-> <em> The project aims to make a strong understanding of processes and procedures used in the processing and interpretation of multichannel seismic data.</em>
+> <em>This project is intended to create a strong understanding of methods and procedures used in the processing and interpretation of multichannel seismic data. Through this project we analyse Reflection, Refraction as well as surface wave data.</em>
 * <p> Semester project titled <strong> Statistical Estimation of Seismic Source Signature </strong> under the supervision Dr. Rahul Dehiya, IISER Pune during Jan - Apr 2020. </p>
 > <em> The project aims to create an algorithm for the statistical estimation of the seismic source signature and compare the results of different source signature methods. </em>
 
@@ -78,8 +78,10 @@
 
 ## Software pakages
 ***
+* [RadExPro Seismic Software](https://radexpro.com/)
 * [Geometrics Softwares](https://www.geometrics.com/software/) (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
 * [OpendTect](https://www.dgbes.com/)
+* SeiSee
 
 
 ## Achievements
