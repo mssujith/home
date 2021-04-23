@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="D45Dj_sJIuzgLCxSnrGqXFvcoA14H_Z188X8i88sOjI" />
+</head>
+
 # About
 ***	
 
