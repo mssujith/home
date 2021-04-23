@@ -8,7 +8,7 @@ One of the most important methods of estimating source signaal is by deconvoluti
 In this project, I created an algorithm to estimate the source signature by Virtual-Real Source Method [Behura and Snieder, 2013] 
 and made some modifications for only one single recorded sigal.
 
-<img src="media/source_est.png" width="200" />
+<img src="media/source_est.png" width="300" />
 
 ## Estimation and Execution of Time Shift in 4D Time Lapse Seismics
 
@@ -16,9 +16,9 @@ Time lapse seismics have created a breakthrough in the field of reservoir monito
 is to match the monitor data with baseline data. In order to do so, the time shift has to be estimated. So I created an algorith to estimate the time shift between
 monitor and baseline data by taylor series approximation and also I tried to execute the index variant time shift to monitor trace for matching it with the baseline.
 
-<img src="media/time_shift.png" width="200"
+<img src="media/time_shift.png" width="300"
 />
-<img src="media/matching.png" width="200" ALIGN="" class="floatRight" />
+<img src="media/matching.png" width="300" ALIGN="" class="floatRight" />
 
 ## Multichannel Seismic Data Analaysis
 Seismic data will provide us a time picture of subsurface structure. The data can be analysed to visualizing tools like imagery, models of velocity profiles, etc.
