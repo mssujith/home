@@ -109,4 +109,5 @@
 * Coordinated Merchandise and Printing department for [Karavaan 2019](https://en.wikipedia.org/wiki/Karavaan), annual socio-cultural science festival of IISER Pune.
 * Coordinated Printing department for Sea Minor 2019, annual drama event organized by IISER Pune.
 * Delhi center coordinator for [Mimamsa 2019](https://en.wikipedia.org/wiki/Mimamsa-IISER), national level intercollegiate science quiz organized by IISER Pune.
-* Trekking & Travelling.
+* Wine making
+* Rock collection
