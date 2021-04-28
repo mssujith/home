@@ -110,4 +110,4 @@
 * Coordinated Printing department for Sea Minor 2019, annual drama event organized by IISER Pune.
 * Delhi center coordinator for [Mimamsa 2019](https://en.wikipedia.org/wiki/Mimamsa-IISER), national level intercollegiate science quiz organized by IISER Pune.
 * Wine making
-* Rock collection (Ameture geology)
+* Rock collection (Amateur geology)
