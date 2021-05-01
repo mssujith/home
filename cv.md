@@ -97,10 +97,8 @@
 * [International Petroleum Technology Conference (IPTC)](http://iptcnet.org/) 2021.
 * Webinar on Groundwater monitoring using observations from NASA’s Gravity Recovery and Climate Experiment (GRACE) missions conducted by
   NASA ARSET on June 25, 2020.
-* Colloquium on The origins of modern Indian biodiversity: Climate implications by Prof. Ashok Sahni on March 6, 2020.
 * Seminar on Gas hydrates: challenges and opportunities by Dr. Pawan Dewangan on January 30, 2020.
 * [Sameeksha 2020](https://www.iiserpune.ac.in/colloquia-seminars/1299), an annual event that showcases research work by students, post-doctoral fellows and faculty members of the Department of Earth and Climate Science of IISER Pune on January 11, 2020
-* Colloquium on Archaeo-Genetic Research at the Harappan Site of Rakhigarhi by Prof Vasant Shinde on November 8, 2019.
 * Seminar on Sub-surface imaging, using passive and active seismic data sets by Dr. Gaurav Tomar on February 25, 2019.
 * INSPIRE Internship Camp 2016, conducted by Dept. of Science and Technology, Govt. of India, on 16-20 Feb 2016 at Sacred Heart College, Thevara, Ernakulam.
 
