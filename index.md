@@ -4,7 +4,7 @@
 <img src="media/profile.jpg" width="150" ALIGN="right" class="floatRight" />
 I am a 4th year BS MS student at the [Department of Earth and Climate Science](https://www.iiserpune.ac.in/research/departments/earth-and-climate-science) at [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/).	
 
-My primary area of research interest is siesmic data analysis and Full Wave Inversion (FWI). My interest in exploration seismology motivated my semester long project on the statistical estimation of seismic source signature under the supervision of [Dr. Rahul Dehiya](https://www.iiserpune.ac.in/people/faculty-details/178), IISER Pune. After that I have also worked breifly on 4D time lapse seismics. Currently, I am working on multichannel seismic data analysis and full wave inversion in frequency domain.
+My primary area of research interest is siesmic data analysis and Full Waveform Inversion (FWI). My interest in exploration seismology motivated my semester long project on the statistical estimation of seismic source signature under the supervision of [Dr. Rahul Dehiya](https://www.iiserpune.ac.in/people/faculty-details/178), IISER Pune. After that I have also worked breifly on 4D time lapse seismics. Currently, I am working on multichannel seismic data analysis and full waveform inversion in frequency domain.
 
 
 Find my CV [here](./cv.md)
