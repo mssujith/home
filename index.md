@@ -27,7 +27,7 @@ Read more about the research works [here](./research.md)
 
 .social-links a {
   text-decoration: none;
-  color: blue;
+  color: #63c0f5;
   padding: 4px;
 }
 
