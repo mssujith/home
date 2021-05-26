@@ -1,11 +1,11 @@
 # CV
 ***
 ## Sujith M S
-#### INSPIRE Scholar
-#### Lab No. 5, Mendeleev
-#### Indian Institute of Science Education and Research (IISER), Pune.
-#### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra	
-#### INDIA - 411008	
+### INSPIRE Scholar
+### Lab No. 5, Mendeleev
+### Indian Institute of Science Education and Research (IISER), Pune.
+### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra	
+### INDIA - 411008	
 
 
 
