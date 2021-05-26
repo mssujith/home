@@ -52,7 +52,7 @@ body {
 .overlay::before {
   content: "";
   pointer-events: none;
-  position: absolute;
+  position: center;
   display: block;
   top: 0;
   left: 0;
@@ -78,7 +78,7 @@ body {
 
 .terminal {
   box-sizing: inherit;
-  position: absolute;
+  position: center;
   height: 100%;
   width: 100%;
   max-width: 1000px;
@@ -87,7 +87,7 @@ body {
 }
 
 .output {
-  color: rgba(255, 60, 60, 0.8);
+  color: #b5e853;
   text-shadow:
       0 0 1px rgba(255, 51, 51, 0.4),
       0 0 2px rgba(255, 255, 255, 0.8);
@@ -124,7 +124,7 @@ a::after {
 }
 
 .errorcode {
-  color: blue;
+  color: red;
 }
 </style>
 
@@ -133,7 +133,7 @@ a::after {
 <div class="overlay"></div>
 <div class="terminal">
   <h1>Error <span class="errorcode">404</span></h1>
-  <p class="output">The page you are looking for might have been removed, had its name changed or is temporarily unavailable.</p>
-  <p class="output">Please try to <a href="https://mssujith.github.io/">return to the homepage</a>.</p>
+  <p class="output">the page you are looking for might have been removed, had its name changed or is temporarily unavailable.</p>
+  <p class="output">tlease try to <a href="https://mssujith.github.io/">return to the homepage</a>.</p>
   <p class="output"></p> 
 </div>
