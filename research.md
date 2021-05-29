@@ -10,7 +10,7 @@ and made some modifications for only one single recorded sigal.
 
 <img src="media/source_est.png" width="500" />
 <pre>
-<em>   The estimated and the actual source signature. </em>
+<em>  The estimated and the actual source signature. </em>
 </pre>
 
 
@@ -52,4 +52,4 @@ familiarizing the processing steps and learning the underlying principles behind
 <em> Final Stack. </em> </pre>
 </div>
    
-Currently, I am working on the Development of FWI algorithm of seismic data...
+Currently, I am working on the development of 2D FWI algorithm of seismic data...
