@@ -1,21 +1,16 @@
 # CV
 ***
 ## Sujith M S
-#### INSPIRE Scholar
-#### Lab No. 5, Mendeleev
-#### Indian Institute of Science Education and Research (IISER), Pune.
-#### Dr. Homi Bhabha Road, Pashan, Pune, Maharashtra	
-#### INDIA - 411008	
-
 
 
 ## Academic Details
 ***
 
-| Institute           | Degree            | Year       |
-|:--------------------|:------------------|:-----------|
-| IISER Pune          | Integrated BS-MS  | 2017-2022  |
-| PMG HSS Palakkad    | 10+2              | 2017       |
+*Integrated BS-MS (2017 -   )*
+Department of Earth and Climate Science
+Indian Institute of Science Education and Research (IISER), Pune
+Maharashtra, India
+
 
 ##  Research Experience
 ***
