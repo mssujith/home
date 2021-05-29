@@ -36,5 +36,6 @@ familiarizing the processing steps and the underlying principles behind it.
 <img src="media/brute_stck_2.png" width="500" />
 *Brute stack*
 
-[Final Stack](./media/final_stck_2)
+<img src="media/final_stck_2.png" width="500" />
+*Final stack*
    
