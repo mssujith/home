@@ -9,8 +9,9 @@ In this project, I created an algorithm to estimate the source signature by Virt
 and made some modifications for only one single recorded sigal.
 
 <img src="media/source_est.png" width="500" />
-
-[space]*The estimated and the actual source signature.*
+<pre>
+<em>     The estimated and the actual source signature. </em>
+</pre>
 
 
 ## Estimation and Execution of Time Shift in 4D Time Lapse Seismics
