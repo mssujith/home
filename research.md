@@ -28,7 +28,13 @@ Exloration Geophysics Lab at IISER Pune undertook a 2D seismic survey (Refractio
 />
 <img src="media/final_vel.png" width="450" ALIGN="" class="floatRight" />
 
-Velocity profile of subsurface from Refraction data analysis and MASW.
+*Velocity profile of subsurface from Refraction data analysis and MASW.*
 
-Currently, I am processing the open data [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software.
+I have processed the open data [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software, with the motivation of 
+familiarizing the processing steps and the underlying principles behind it.
+
+<img src="media/brute_stck_2.png" width="500" />
+*Brute stack*
+
+[Final Stack](./media/final_stck_2)
    
