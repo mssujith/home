@@ -6,9 +6,9 @@
 ## Academic Details
 ***
 
-*Integrated BS-MS (2017 -   )*
-Department of Earth and Climate Science
-Indian Institute of Science Education and Research (IISER), Pune
+*Integrated BS-MS (2017 -   )* \
+Department of Earth and Climate Science \
+Indian Institute of Science Education and Research (IISER), Pune \
 Maharashtra, India
 
 
