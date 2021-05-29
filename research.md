@@ -9,6 +9,7 @@ In this project, I created an algorithm to estimate the source signature by Virt
 and made some modifications for only one single recorded sigal.
 
 <img src="media/source_est.png" width="500" />
+*The estimated and the actual source signature.*
 
 ## Estimation and Execution of Time Shift in 4D Time Lapse Seismics
 
@@ -34,8 +35,8 @@ I have processed the open data [2D Vibroseis Line 001](https://wiki.seg.org/wiki
 familiarizing the processing steps and the underlying principles behind it.
 
 <img src="media/brute_stck_2.png" width="995" />
-*Brute stack*
+*Brute stack.*
 
 <img src="media/final_stck_2.png" width="995" />
-*Final stack*
+*Final stack.*
    
