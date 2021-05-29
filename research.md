@@ -9,9 +9,9 @@ In this project, I created an algorithm to estimate the source signature by Virt
 and made some modifications for only one single recorded sigal.
 
 <img src="media/source_est.png" width="500" />
-<div align="center">
+
 *The estimated and the actual source signature.*
-</div>
+
 
 ## Estimation and Execution of Time Shift in 4D Time Lapse Seismics
 
@@ -22,7 +22,9 @@ monitor and baseline data by taylor series approximation and also I tried to exe
 <img src="media/time_shift.png" width="494.5"
 />
 <img src="media/matching.png" width="494.5" ALIGN="" class="floatRight" />
+<div align="center">
 *The baseline and monitor data and estimated time shift (Fig 1). Time shifted monitor and baseline data (Fif 2).*
+</div>
 
 ## Multichannel Seismic Data Analaysis
 Seismic data will provide us a time picture of subsurface structure. The data can be analysed to visualizing tools like imagery, models of velocity profiles, etc.
