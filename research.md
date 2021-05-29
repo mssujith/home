@@ -9,7 +9,9 @@ In this project, I created an algorithm to estimate the source signature by Virt
 and made some modifications for only one single recorded sigal.
 
 <img src="media/source_est.png" width="500" />
+<div align="center">
 *The estimated and the actual source signature.*
+</div>
 
 ## Estimation and Execution of Time Shift in 4D Time Lapse Seismics
 
@@ -20,6 +22,7 @@ monitor and baseline data by taylor series approximation and also I tried to exe
 <img src="media/time_shift.png" width="494.5"
 />
 <img src="media/matching.png" width="494.5" ALIGN="" class="floatRight" />
+*The baseline and monitor data and estimated time shift (Fig 1). Time shifted monitor and baseline data (Fif 2).*
 
 ## Multichannel Seismic Data Analaysis
 Seismic data will provide us a time picture of subsurface structure. The data can be analysed to visualizing tools like imagery, models of velocity profiles, etc.
@@ -29,7 +32,7 @@ Exloration Geophysics Lab at IISER Pune undertook a 2D seismic survey (Refractio
 />
 <img src="media/final_vel.png" width="450" ALIGN="" class="floatRight" />
 
-*Velocity profile of subsurface from Refraction data analysis and MASW.*
+*Velocity profile of subsurface from Refraction data analysis (Fig 1) and MASW (Fig 2).*
 
 I have processed the open data [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software, with the motivation of 
 familiarizing the processing steps and the underlying principles behind it.
