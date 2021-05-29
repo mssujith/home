@@ -1,13 +1,14 @@
 # CV
 ***
 ## Sujith M S
+### Inspire Scholar
 
 
 ## Academic Details
 ***
 
 **Integrated BS-MS (2017 - ~ )** \
-Thesis title: Development of 2D Full-Waveform Inversion algorith of seimic data.
+Thesis title: Development of 2D Full-Waveform Inversion algorith of seimic data. \
 Department of Earth and Climate Science \
 Indian Institute of Science Education and Research (IISER), Pune \
 Maharashtra, India
