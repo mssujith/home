@@ -24,7 +24,8 @@ monitor and baseline data by taylor series approximation and also I tried to exe
 />
 <img src="media/matching.png" width="494.5" ALIGN="" class="floatRight" />
 <div align="center"> <pre>
-<em> The baseline and monitor data and estimated time shift (Fig 1). Time shifted monitor and baseline data (Fig 2). </em> </pre>
+<em> The baseline and monitor data and estimated time shift (Fig 1). Time shifted monitor and baseline
+data (Fig 2). </em> </pre>
 </div>
 
 ## Multichannel Seismic Data Analaysis
@@ -51,3 +52,4 @@ familiarizing the processing steps and learning the underlying principles behind
 <em> Final Stack. </em> </pre>
 </div>
    
+Currently, I am working on the Development of FWI algorithm of seismic data...
