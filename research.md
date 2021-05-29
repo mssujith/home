@@ -33,9 +33,9 @@ Exloration Geophysics Lab at IISER Pune undertook a 2D seismic survey (Refractio
 I have processed the open data [2D Vibroseis Line 001](https://wiki.seg.org/wiki/2D_Vibroseis_Line_001), using RadEXPro Seismic Software, with the motivation of 
 familiarizing the processing steps and the underlying principles behind it.
 
-<img src="media/brute_stck_2.png" width="500" />
+<img src="media/brute_stck_2.png" width="995" />
 *Brute stack*
 
-<img src="media/final_stck_2.png" width="500" />
+<img src="media/final_stck_2.png" width="995" />
 *Final stack*
    
