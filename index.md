@@ -9,7 +9,7 @@ My primary area of research interest is siesmic data analysis and Full Waveform 
 
 Find my CV [here](./cv.md)
 
-Read more about the research works [here](./research.md)
+Read more about my research experience [here](./research.md)
 
 ***
 
