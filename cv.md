@@ -56,7 +56,7 @@ Maharashtra, India
 
 *  <p>Python</p>
   <div class="container">
-  <div class="skills python"></div>
+  <div Python class="skills python"></div>
   </div>
 
 *  <p>R</p>
