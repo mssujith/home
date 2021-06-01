@@ -51,21 +51,9 @@ Maharashtra, India
 </style>
 
 *  <div class="skills matlab"><p>MATLAB</p></div>
-
-*  <p>Python</p>
-  <div class="container">
-  <div class="skills python"></div>
-  </div>
-
-*  <p>R</p>
-  <div class="container">
-  <div class="skills r"></div>
-  </div>
-
-*  <p>LaTeX</p>
-  <div class="container">
-  <div class="skills latex"></div>
-  </div>
+*  <div class="skills python"><p>Python</p></div>
+*  <div class="skills r"><p>R</p></div>
+*  <div class="skills latex"><p>LaTeX</p></div>
 
 ## Software pakages
 ***
