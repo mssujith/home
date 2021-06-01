@@ -52,7 +52,7 @@ Maharashtra, India
 
 *  <div class="skills matlab"><p>MATLAB</p></div>
 *  <div class="skills python"><p>Python</p></div>
-*  <div class="skills r"><p>R</p></div>
+*  <div class="skills r">R</div>
 *  <div class="skills latex"><p>LaTeX</p></div>
 
 ## Software pakages
