@@ -30,7 +30,7 @@ Maharashtra, India
 * {box-sizing:border-box}
 
 .container { 
-  width: 100%;
+  width: 50%;
   height: 1px
   align-content: left;
   \\border: 1px solid #ddd;
