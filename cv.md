@@ -51,7 +51,7 @@ Maharashtra, India
 </style>
 
 * <div class="container">
-  <div class="skills matlab"></div><p>MATLAB</p>
+  <div <p>MATLAB</p> class="skills matlab"></div>
   </div>
 
 *  <p>Python</p>
