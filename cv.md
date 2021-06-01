@@ -31,10 +31,10 @@ Maharashtra, India
 
 .container { 
   width: 100%;
-  height: 2px
+  height: 1px
   align-content: left;
   \\border: 1px solid #ddd;
-  \\background-color: #ddd; 
+  background-color: #999; 
 }
 
 .skills {
