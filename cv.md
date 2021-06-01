@@ -40,7 +40,7 @@ Maharashtra, India
 .skills {
   text-align: left; 
   padding-top: 0px;
-  padding-bottom: -0.5px;
+  padding-bottom: -1px;
   color: white;
 }
 
