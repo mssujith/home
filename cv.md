@@ -38,9 +38,9 @@ Maharashtra, India
 }
 
 .skills {
-  text-align: right; 
-  padding-top: 1px;
-  padding-bottom: 1px;
+  text-align: left; 
+  padding-top: 0px;
+  padding-bottom: 0px;
   color: white;
 }
 
