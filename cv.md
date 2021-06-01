@@ -50,9 +50,7 @@ Maharashtra, India
 .latex {width: 85%; background-color: #28B732;
 </style>
 
-* <div class="container">
-  <div <p>MATLAB</p> class="skills matlab"></div>
-  </div>
+* <p>MATLAB</p><div class="container" class="skills matlab"></div>
 
 *  <p>Python</p>
   <div class="container">
