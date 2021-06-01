@@ -30,7 +30,7 @@ Maharashtra, India
 * {box-sizing:border-box}
 
 .container { 
-  width: 50%;
+  width: 100%;
   height: 1px
   align-content: left;
   \\border: 1px solid #ddd;
@@ -39,8 +39,8 @@ Maharashtra, India
 
 .skills {
   text-align: right; 
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   color: white;
 }
 
@@ -50,7 +50,10 @@ Maharashtra, India
 .latex {width: 85%; background-color: #28B732;
 </style>
 
-* <p>MATLAB</p><div class="skills matlab"></div>
+*  <p>MATLAB</p>
+  <div class="container">
+  <div class="skills matlab"></div>
+  </div>
 
 *  <p>Python</p>
   <div class="container">
