@@ -44,7 +44,7 @@ Maharashtra, India
   color: white;
 }
 
-.matlab {width: 90%; background-color: #f44336;} 
+.matlab {width: 90%; background-color: #28B732;} 
 .python {width: 70%; background-color: #f44336;} 
 .r {width: 55%; background-color: #f44336;} 
 .latex {width: 85%; background-color: #f44336;
