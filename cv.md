@@ -34,7 +34,7 @@ Maharashtra, India
   height: 1px
   align-content: left;
   \\border: 1px solid #ddd;
-  background-color: #999; 
+  \\background-color: #ddd; 
 }
 
 .skills {
