@@ -44,7 +44,7 @@ Maharashtra, India, 411 008
 }
 
 .matlab {width: 90%; background-color: #28B732;} 
-.python {width: 70%; background-color: #28B732;} 
+.python {width: 80%; background-color: #28B732;} 
 .r {width: 55%; background-color: #28B732;} 
 .latex {width: 85%; background-color: #28B732;
 </style>
