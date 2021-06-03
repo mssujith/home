@@ -27,7 +27,7 @@ Read more about my research experience [here](./research.md)
 
 .social-links a {
   text-decoration: none;
-  color: blue;
+  color: #63c0f5;
   padding: 4px;
 }
 
