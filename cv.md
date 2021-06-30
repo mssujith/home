@@ -59,6 +59,7 @@ Maharashtra, India, 411 008
 * [RadExPro Seismic Software](https://radexpro.com/)
 * [Geometrics Softwares](https://www.geometrics.com/software/) (SeisImager/SW, SeisImager/2D, Seismodule Controller Software, etc)
 * [OpendTect](https://www.dgbes.com/)
+* SOFI2D, Seismic Unix
 * SeiSee
 
 ## Technical Skills
