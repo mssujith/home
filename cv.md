@@ -61,6 +61,11 @@ Maharashtra, India, 411 008
 * [OpendTect](https://www.dgbes.com/)
 * SeiSee
 
+## Technical Skills
+***
+* Seismic Data Acquisition
+* Multichannel Seismic Data Processing
+
 
 ## Achievements
 ***
