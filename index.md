@@ -44,5 +44,5 @@ Read more about my research experience [here](./research.md)
 
  
 
-> <div style="text-align: right"> This is your life and it's ending one minute at a time.
-> -Fight Club (1999) </div>
+> <div style="text-align: right"> This is your life and it's ending one minute at a time. </div>
+> <div style="text-align: right"> -Fight Club (1999) </div>
